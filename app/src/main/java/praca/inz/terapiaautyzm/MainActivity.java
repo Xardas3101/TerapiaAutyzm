@@ -3,7 +3,7 @@ package praca.inz.terapiaautyzm;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 //testujemy
-
+//xd
 
 public class MainActivity extends AppCompatActivity {
 
