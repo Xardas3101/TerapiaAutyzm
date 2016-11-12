@@ -11,7 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    String xd;
     public void testGitHub(){
         /* do nothing */
+
     }
 }
